@@ -462,6 +462,8 @@ data/                   данные (создаются при работе; н
 
 Свободна к использованию: запускайте у себя, форкайте, улучшайте и делитесь.
 
+<img width="2802" height="1724" alt="image" src="https://github.com/user-attachments/assets/28243d87-558e-46ad-b117-4e59265a41a9" />
+
 <img width="1436" height="859" alt="chrome_0ykO4pY8aL" src="https://github.com/user-attachments/assets/13874811-b8e6-4654-b5de-e83c4ae78d27" />
 
 <img width="1440" height="859" alt="chrome_NTxPoM1N6J" src="https://github.com/user-attachments/assets/0dc4afda-1921-444f-87ab-ae77ae931f1f" />
