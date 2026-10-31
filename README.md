@@ -1,5 +1,8 @@
 # Bookmarks
 Bookmarks
+
+<img width="839" height="500" alt="chrome_IkmwSEnUAx" src="https://github.com/user-attachments/assets/d4bc12e7-9399-4f6e-92c7-5868d74ddf34" />
+
 <p align="center">
   <img src="bookmarks/static/favicon.svg" width="72" alt="Bookmarks icon">
 </p>
