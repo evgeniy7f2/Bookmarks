@@ -469,3 +469,17 @@ data/                   данные (создаются при работе; н
 ## 📄 Лицензия
 
 Свободна к использованию: запускайте у себя, форкайте, улучшайте и делитесь.
+
+<img width="1436" height="859" alt="chrome_0ykO4pY8aL" src="https://github.com/user-attachments/assets/13874811-b8e6-4654-b5de-e83c4ae78d27" />
+
+<img width="1440" height="859" alt="chrome_NTxPoM1N6J" src="https://github.com/user-attachments/assets/0dc4afda-1921-444f-87ab-ae77ae931f1f" />
+
+---
+
+## 💖 Поддержать разработку
+
+Если вам нравится проект и вы хотите поддержать его развитие:
+
+💳 **Карты РФ / СБП / Tinkoff Pay:**  
+👉 [Поддержать через CloudTips](https://pay.cloudtips.ru/p/c57e8211)
+
