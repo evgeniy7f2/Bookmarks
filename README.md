@@ -43,12 +43,7 @@ Requirements: **Python 3.10+** (or Docker).
 ```sh
 git clone https://github.com/evgeniy7f2/bookmarks.git
 cd bookmarks
-python3 app.py
 ```
-
-Open <http://127.0.0.1:8765>, register a user — and you are done.
-
----
 
 ## 🐧 Linux (Ubuntu / Debian)
 
@@ -64,6 +59,7 @@ Open <http://127.0.0.1:8765>, register a user — and you are done.
 
 ```sh
 cd bookmarks
+chmod +x run.sh
 ./run.sh
 ```
 
@@ -271,12 +267,7 @@ Free to use: run it on your machine, fork it, improve it and share it back.
 ```sh
 git clone https://github.com/evgeniy7f2/bookmarks.git
 cd bookmarks
-python3 app.py
 ```
-
-Откройте <http://127.0.0.1:8765>, зарегистрируйте пользователя — всё.
-
----
 
 ## 🐧 Linux (Ubuntu / Debian)
 
@@ -292,6 +283,7 @@ python3 app.py
 
 ```sh
 cd bookmarks
+chmod +x run.sh
 ./run.sh
 ```
 
