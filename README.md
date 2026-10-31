@@ -58,7 +58,6 @@ cd bookmarks
 **Option A — quick run** (venv is created automatically):
 
 ```sh
-cd bookmarks
 chmod +x run.sh
 ./run.sh
 ```
@@ -282,7 +281,6 @@ cd bookmarks
 **Вариант А — быстрый запуск** (venv создастся сам):
 
 ```sh
-cd bookmarks
 chmod +x run.sh
 ./run.sh
 ```
