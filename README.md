@@ -22,6 +22,7 @@
 </p>
 
 ---
+<img width="800" height="477" alt="chrome_x2KvElyYkJ" src="https://github.com/user-attachments/assets/b314ff93-69b8-4f3f-b5d7-435238800916" />
 
 ## ✨ Features
 
