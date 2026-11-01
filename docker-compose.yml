@@ -1,0 +1,22 @@
+services:
+  bookmarks:
+    build: .
+    image: bookmarks
+    container_name: bookmarks
+    restart: unless-stopped
+    ports:
+      - "8765:8765"
+    environment:
+      # Часовой пояс серверных логов (не влияет на отображение в интерфейсе —
+      # время хранится в UTC, а интерфейс показывает время браузера).
+      TZ: Etc/MSK
+    volumes:
+      # Данные в именованном томе (переживают пересборку и удаление контейнера).
+      # Перенос существующих данных: см. README, раздел «Docker» → «Перенос данных».
+      - bookmarks-data:/data
+      # Альтернатива: папка ./data рядом с проектом (как при обычном запуске).
+      # На Linux перед первым запуском: sudo chown -R 10001:10001 data
+      # - ./data:/data
+
+volumes:
+  bookmarks-data:
