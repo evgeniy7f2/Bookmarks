@@ -705,7 +705,7 @@ data/                   данные (создаются при работе; н
 💳 **Карты РФ / СБП / Tinkoff Pay:**  
 👉 [Поддержать через CloudTips](https://pay.cloudtips.ru/p/c57e8211)
 
-<img width="2880" height="1718" alt="image" src="https://github.com/user-attachments/assets/c4e890b2-11de-45e3-8575-34ad32ffac9d" />
+
 
 
 Свободна к использованию: запускайте у себя, форкайте, улучшайте и делитесь.
