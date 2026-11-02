@@ -2,6 +2,8 @@
 
 # 🔖 Bookmarks
 
+<img width="800" height="477" alt="chrome_K8ttP4SBEK" src="https://github.com/user-attachments/assets/c1e7886d-f9a7-40a2-af93-102f8b3d1061" />
+
 **Многопользовательский менеджер закладок с поддержкой приватных пространств, тегов, метаданных и продвинутого администрирования.**  
 *A multi-user bookmark manager featuring private spaces, tags, automatic metadata fetching, and advanced administration.*
 
