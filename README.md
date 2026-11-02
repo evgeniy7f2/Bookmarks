@@ -55,6 +55,16 @@ curl -fsSL https://raw.githubusercontent.com/evgeniy7f2/Bookmarks/main/install.s
 
 Скрипт автоматически установит зависимости, скопирует файлы, создаст systemd-сервис `bookmarks` (с автозагрузкой при старте и перезапуском при сбое), проверит работоспособность и выведет адрес в терминале. **Первый зарегистрированный пользователь станет администратором системы.**
 
+  ─────────────────────────────────────────────────────────────
+   🔖  Bookmarks is installed and running!
+  ─────────────────────────────────────────────────────────────
+
+   🌐   Address:     http://192.168.100.20:8765
+   ⚙️   Service:     systemctl status bookmarks
+   📜   Logs:        journalctl -u bookmarks -f
+   📁   Data:        /opt/bookmarks/data
+   🔄   Updates: in the app — "About" → "Check for updates"
+
 Либо вручную:
 
 ```bash
@@ -126,6 +136,16 @@ curl -fsSL https://raw.githubusercontent.com/evgeniy7f2/Bookmarks/main/install.s
 ```
 
 The script will install dependencies, copy files, create a systemd service `bookmarks` (with auto-start on boot and failure recovery), verify startup, and print the web address. **The first registered user automatically becomes the administrator.**
+
+  ─────────────────────────────────────────────────────────────
+   🔖  Bookmarks is installed and running!
+  ─────────────────────────────────────────────────────────────
+
+   🌐   Address:     http://192.168.100.20:8765
+   ⚙️   Service:     systemctl status bookmarks
+   📜   Logs:        journalctl -u bookmarks -f
+   📁   Data:        /opt/bookmarks/data
+   🔄   Updates: in the app — "About" → "Check for updates"
 
 Or manually:
 
