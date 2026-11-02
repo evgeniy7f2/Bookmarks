@@ -133,7 +133,9 @@ The script will install dependencies, copy files, create a systemd service `book
 
 <img width="721" height="228" alt="image" src="https://github.com/user-attachments/assets/5b3f7ca1-9c57-4ffa-9449-526e9c2a8e28" />
 
-http://<IP-PC>:8765
+
+http://<IP_PC>:8765
+
 
 Or manually:
 
