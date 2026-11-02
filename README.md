@@ -54,7 +54,7 @@ curl -fsSL https://raw.githubusercontent.com/evgeniy7f2/Bookmarks/main/install.s
 ```
 
 Скрипт автоматически установит зависимости, скопирует файлы, создаст systemd-сервис `bookmarks` (с автозагрузкой при старте и перезапуском при сбое), проверит работоспособность и выведет адрес в терминале. **Первый зарегистрированный пользователь станет администратором системы.**
-
+---
   ─────────────────────────────────────────────────────────────
    🔖  Bookmarks is installed and running!
   ─────────────────────────────────────────────────────────────
@@ -64,7 +64,7 @@ curl -fsSL https://raw.githubusercontent.com/evgeniy7f2/Bookmarks/main/install.s
    📜   Logs:        journalctl -u bookmarks -f
    📁   Data:        /opt/bookmarks/data
    🔄   Updates: in the app — "About" → "Check for updates"
-
+---
 Либо вручную:
 
 ```bash
