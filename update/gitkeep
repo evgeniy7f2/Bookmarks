@@ -1,0 +1,2 @@
+# This folder holds update archives: update_vX_X_X.tar
+# (the app checks it locally and on GitHub for new versions).
