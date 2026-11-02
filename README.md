@@ -53,14 +53,6 @@
 curl -fsSL https://raw.githubusercontent.com/evgeniy7f2/Bookmarks/main/install.sh | sudo bash
 ```
 
-После запуска откроется интерактивное меню — выберите **«1) установить / обновить»** и ответьте на три вопроса (нажмите `Enter`, чтобы принять значения по умолчанию):
-
-| Вопрос | По умолчанию | Описание |
-| :--- | :--- | :--- |
-| **Каталог установки** | `/opt/bookmarks` | Где будут храниться файлы программы и данные |
-| **Порт** | `8765` | TCP-порт для веб-интерфейса |
-| **Доступ** | `external` | `internal` — только с самого сервера (127.0.0.1); `external` — из внешней сети (0.0.0.0) |
-
 Скрипт автоматически установит зависимости, скопирует файлы, создаст systemd-сервис `bookmarks` (с автозагрузкой при старте и перезапуском при сбое), проверит работоспособность и выведет адрес в терминале. **Первый зарегистрированный пользователь станет администратором системы.**
 
 Либо вручную:
@@ -132,14 +124,6 @@ Install with a single command:
 ```bash
 curl -fsSL https://raw.githubusercontent.com/evgeniy7f2/Bookmarks/main/install.sh | sudo bash
 ```
-
-An interactive menu will open — select **"1) install / update"** and answer three questions (press `Enter` to accept defaults):
-
-| Question | Default | Description |
-| :--- | :--- | :--- |
-| **Install directory** | `/opt/bookmarks` | Where application files and data live |
-| **Port** | `8765` | TCP port for HTTP traffic |
-| **Access** | `external` | `internal` — local server only (127.0.0.1); `external` — accessible from the network (0.0.0.0) |
 
 The script will install dependencies, copy files, create a systemd service `bookmarks` (with auto-start on boot and failure recovery), verify startup, and print the web address. **The first registered user automatically becomes the administrator.**
 
