@@ -57,7 +57,7 @@ curl -fsSL https://raw.githubusercontent.com/evgeniy7f2/Bookmarks/main/install.s
 
 <img width="721" height="228" alt="image" src="https://github.com/user-attachments/assets/1ccefe59-0738-410f-8636-03e99808dca1" />
 
-http:<IP-ПК>:8765
+http://<IP-ПК>:8765
 
 Или в ручную:
 
@@ -133,7 +133,7 @@ The script will install dependencies, copy files, create a systemd service `book
 
 <img width="721" height="228" alt="image" src="https://github.com/user-attachments/assets/5b3f7ca1-9c57-4ffa-9449-526e9c2a8e28" />
 
-http:<IP-PC>:8765
+http://<IP-PC>:8765
 
 Or manually:
 
