@@ -57,6 +57,7 @@ curl -fsSL https://raw.githubusercontent.com/evgeniy7f2/Bookmarks/main/install.s
 
 <img width="721" height="228" alt="image" src="https://github.com/user-attachments/assets/1ccefe59-0738-410f-8636-03e99808dca1" />
 
+Или в ручную:
 
 ```bash
 git clone https://github.com/evgeniy7f2/Bookmarks.git
