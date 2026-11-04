@@ -124,7 +124,7 @@ INSTALL_DIR=/opt/bookmarks PORT=8765 BIND=external UI_LANG=ru sudo bash install.
 ---
 
 ### 📋 Требования
-- Ubuntu Server 22.04 / 24.04
+- Ubuntu Server 22.04 / 24.04 / 26.04
 - `git` и `Python 3.10+` (устанавливаются автоматически при отсутствии)
 
 ---
@@ -202,5 +202,5 @@ INSTALL_DIR=/opt/bookmarks PORT=8765 BIND=external UI_LANG=ru sudo bash install.
 ---
 
 ### 📋 Requirements
-- Ubuntu Server 22.04 / 24.04
+- Ubuntu Server 22.04 / 24.04 / 26.04
 - `git` and `Python 3.10+` (installed automatically if missing)
